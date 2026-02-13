@@ -8,5 +8,5 @@ class Solution:
             else:
                 oddl.append(i)
         evenl.sort()
-        oddl.sort()
+
         return evenl+oddl
