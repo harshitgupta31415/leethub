@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/harshitgupta31415/leethub/tree/master/0001-two-sum) |
 | [0164-maximum-gap](https://github.com/harshitgupta31415/leethub/tree/master/0164-maximum-gap) |
+| [0561-array-partition](https://github.com/harshitgupta31415/leethub/tree/master/0561-array-partition) |
 ## Hash Table
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/harshitgupta31415/leethub/tree/master/0164-maximum-gap) |
+| [0561-array-partition](https://github.com/harshitgupta31415/leethub/tree/master/0561-array-partition) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -24,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/harshitgupta31415/leethub/tree/master/0164-maximum-gap) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/harshitgupta31415/leethub/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/harshitgupta31415/leethub/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
