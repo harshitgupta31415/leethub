@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/harshitgupta31415/leethub/tree/master/0164-maximum-gap) |
 | [0561-array-partition](https://github.com/harshitgupta31415/leethub/tree/master/0561-array-partition) |
 | [0905-sort-array-by-parity](https://github.com/harshitgupta31415/leethub/tree/master/0905-sort-array-by-parity) |
+| [2101-detonate-the-maximum-bombs](https://github.com/harshitgupta31415/leethub/tree/master/2101-detonate-the-maximum-bombs) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/harshitgupta31415/leethub/tree/master/0002-add-two-numbers) |
 | [0067-add-binary](https://github.com/harshitgupta31415/leethub/tree/master/0067-add-binary) |
+| [2101-detonate-the-maximum-bombs](https://github.com/harshitgupta31415/leethub/tree/master/2101-detonate-the-maximum-bombs) |
 ## String
 |  |
 | ------- |
@@ -68,4 +70,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/harshitgupta31415/leethub/tree/master/0002-add-two-numbers) |
+## Depth-First Search
+|  |
+| ------- |
+| [2101-detonate-the-maximum-bombs](https://github.com/harshitgupta31415/leethub/tree/master/2101-detonate-the-maximum-bombs) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2101-detonate-the-maximum-bombs](https://github.com/harshitgupta31415/leethub/tree/master/2101-detonate-the-maximum-bombs) |
+## Graph Theory
+|  |
+| ------- |
+| [2101-detonate-the-maximum-bombs](https://github.com/harshitgupta31415/leethub/tree/master/2101-detonate-the-maximum-bombs) |
+## Geometry
+|  |
+| ------- |
+| [2101-detonate-the-maximum-bombs](https://github.com/harshitgupta31415/leethub/tree/master/2101-detonate-the-maximum-bombs) |
 <!---LeetCode Topics End-->
