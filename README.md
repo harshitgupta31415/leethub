@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harshitgupta31415/leethub/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/harshitgupta31415/leethub/tree/master/0015-3sum) |
 | [0135-candy](https://github.com/harshitgupta31415/leethub/tree/master/0135-candy) |
 | [0164-maximum-gap](https://github.com/harshitgupta31415/leethub/tree/master/0164-maximum-gap) |
 | [0561-array-partition](https://github.com/harshitgupta31415/leethub/tree/master/0561-array-partition) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/harshitgupta31415/leethub/tree/master/0015-3sum) |
 | [0164-maximum-gap](https://github.com/harshitgupta31415/leethub/tree/master/0164-maximum-gap) |
 | [0561-array-partition](https://github.com/harshitgupta31415/leethub/tree/master/0561-array-partition) |
 | [0905-sort-array-by-parity](https://github.com/harshitgupta31415/leethub/tree/master/0905-sort-array-by-parity) |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/harshitgupta31415/leethub/tree/master/0015-3sum) |
 | [0905-sort-array-by-parity](https://github.com/harshitgupta31415/leethub/tree/master/0905-sort-array-by-parity) |
 ## Math
 |  |
