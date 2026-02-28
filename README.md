@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/harshitgupta31415/leethub/tree/master/0067-add-binary) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/harshitgupta31415/leethub/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2101-detonate-the-maximum-bombs](https://github.com/harshitgupta31415/leethub/tree/master/2101-detonate-the-maximum-bombs) |
+| [3360-stone-removal-game](https://github.com/harshitgupta31415/leethub/tree/master/3360-stone-removal-game) |
 ## String
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/harshitgupta31415/leethub/tree/master/0067-add-binary) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/harshitgupta31415/leethub/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [3360-stone-removal-game](https://github.com/harshitgupta31415/leethub/tree/master/3360-stone-removal-game) |
 ## Linked List
 |  |
 | ------- |
