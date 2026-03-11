@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/harshitgupta31415/leethub/tree/master/0067-add-binary) |
+| [0476-number-complement](https://github.com/harshitgupta31415/leethub/tree/master/0476-number-complement) |
 | [0868-binary-gap](https://github.com/harshitgupta31415/leethub/tree/master/0868-binary-gap) |
 | [1009-complement-of-base-10-integer](https://github.com/harshitgupta31415/leethub/tree/master/1009-complement-of-base-10-integer) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/harshitgupta31415/leethub/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
