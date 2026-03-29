@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/harshitgupta31415/leethub/tree/master/0275-h-index-ii) |
 | [0561-array-partition](https://github.com/harshitgupta31415/leethub/tree/master/0561-array-partition) |
 | [0905-sort-array-by-parity](https://github.com/harshitgupta31415/leethub/tree/master/0905-sort-array-by-parity) |
+| [1037-valid-boomerang](https://github.com/harshitgupta31415/leethub/tree/master/1037-valid-boomerang) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/harshitgupta31415/leethub/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2101-detonate-the-maximum-bombs](https://github.com/harshitgupta31415/leethub/tree/master/2101-detonate-the-maximum-bombs) |
 | [3643-flip-square-submatrix-vertically](https://github.com/harshitgupta31415/leethub/tree/master/3643-flip-square-submatrix-vertically) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/harshitgupta31415/leethub/tree/master/0002-add-two-numbers) |
 | [0067-add-binary](https://github.com/harshitgupta31415/leethub/tree/master/0067-add-binary) |
+| [1037-valid-boomerang](https://github.com/harshitgupta31415/leethub/tree/master/1037-valid-boomerang) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/harshitgupta31415/leethub/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2101-detonate-the-maximum-bombs](https://github.com/harshitgupta31415/leethub/tree/master/2101-detonate-the-maximum-bombs) |
 | [3360-stone-removal-game](https://github.com/harshitgupta31415/leethub/tree/master/3360-stone-removal-game) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [1037-valid-boomerang](https://github.com/harshitgupta31415/leethub/tree/master/1037-valid-boomerang) |
 | [2101-detonate-the-maximum-bombs](https://github.com/harshitgupta31415/leethub/tree/master/2101-detonate-the-maximum-bombs) |
 ## Dynamic Programming
 |  |
