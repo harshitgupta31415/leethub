@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/harshitgupta31415/leethub/tree/master/0006-zigzag-conversion) |
+| [0008-string-to-integer-atoi](https://github.com/harshitgupta31415/leethub/tree/master/0008-string-to-integer-atoi) |
 | [0067-add-binary](https://github.com/harshitgupta31415/leethub/tree/master/0067-add-binary) |
 | [0520-detect-capital](https://github.com/harshitgupta31415/leethub/tree/master/0520-detect-capital) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/harshitgupta31415/leethub/tree/master/1545-find-kth-bit-in-nth-binary-string) |
