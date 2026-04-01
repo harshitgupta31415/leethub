@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1551-minimum-operations-to-make-array-equal](https://github.com/harshitgupta31415/leethub/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/harshitgupta31415/leethub/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2101-detonate-the-maximum-bombs](https://github.com/harshitgupta31415/leethub/tree/master/2101-detonate-the-maximum-bombs) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/harshitgupta31415/leethub/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3360-stone-removal-game](https://github.com/harshitgupta31415/leethub/tree/master/3360-stone-removal-game) |
 ## String
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/harshitgupta31415/leethub/tree/master/0067-add-binary) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/harshitgupta31415/leethub/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/harshitgupta31415/leethub/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/harshitgupta31415/leethub/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3360-stone-removal-game](https://github.com/harshitgupta31415/leethub/tree/master/3360-stone-removal-game) |
 ## Linked List
 |  |
@@ -155,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0275-h-index-ii](https://github.com/harshitgupta31415/leethub/tree/master/0275-h-index-ii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/harshitgupta31415/leethub/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+## Game Theory
+|  |
+| ------- |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/harshitgupta31415/leethub/tree/master/3222-find-the-winning-player-in-coin-game) |
 <!---LeetCode Topics End-->
