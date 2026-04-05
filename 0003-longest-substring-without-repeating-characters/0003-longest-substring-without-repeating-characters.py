@@ -5,8 +5,9 @@ class Solution:
         bigstr=""
         while r<len(s):
             news=s[l:r+1]
-            if len(news) != len(set(news)):
-                l+=1
+            while len(news) != len(set(news)):
+                l += 1
+                news = s[l:r+1]
             else:
                 if len(news)>len(bigstr):
                     bigstr=news
