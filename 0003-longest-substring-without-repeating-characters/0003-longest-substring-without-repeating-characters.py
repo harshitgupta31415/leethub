@@ -3,14 +3,15 @@ class Solution:
         l=0
         r=0
         bigstr=""
+        seen=set()
+        length=0
         while r<len(s):
-            news=s[l:r+1]
-            while len(news) != len(set(news)):
-                l += 1
-                news = s[l:r+1]
-            else:
-                if len(news)>len(bigstr):
-                    bigstr=news
+            if s[r] not in seen:
+                seen.add(s[r])
                 r+=1
-        
-        return len(bigstr)
+                if len(seen)>length:
+                    length=len(seen)
+            else:
+                seen.remove(s[l])
+                l+=1
+        return length
