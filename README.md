@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/harshitgupta31415/leethub/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2101-detonate-the-maximum-bombs](https://github.com/harshitgupta31415/leethub/tree/master/2101-detonate-the-maximum-bombs) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/harshitgupta31415/leethub/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2216-minimum-deletions-to-make-array-beautiful](https://github.com/harshitgupta31415/leethub/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/harshitgupta31415/leethub/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/harshitgupta31415/leethub/tree/master/3643-flip-square-submatrix-vertically) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/harshitgupta31415/leethub/tree/master/3852-smallest-pair-with-different-frequencies) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/harshitgupta31415/leethub/tree/master/0561-array-partition) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/harshitgupta31415/leethub/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/harshitgupta31415/leethub/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
+| [2216-minimum-deletions-to-make-array-beautiful](https://github.com/harshitgupta31415/leethub/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 ## Counting Sort
 |  |
 | ------- |
@@ -210,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/harshitgupta31415/leethub/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Stack
+|  |
+| ------- |
+| [2216-minimum-deletions-to-make-array-beautiful](https://github.com/harshitgupta31415/leethub/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 <!---LeetCode Topics End-->
