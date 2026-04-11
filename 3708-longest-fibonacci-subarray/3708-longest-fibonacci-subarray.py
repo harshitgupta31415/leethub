@@ -6,8 +6,8 @@ class Solution:
             if nums[i-2]+nums[i-1]==nums[i]:
                 l.append(nums[i])
             else:
+                if ans+i>len(nums):
+                    break
                 l=nums[i-2:i]
             ans=max(ans,len(l))
-            if ans+i-len(l)>len(nums):
-                break
         return ans
