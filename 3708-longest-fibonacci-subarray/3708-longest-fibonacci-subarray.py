@@ -8,4 +8,6 @@ class Solution:
             else:
                 l=nums[i-2:i]
             ans=max(ans,len(l))
+            if ans+i-len(l)>len(nums):
+                break
         return ans
