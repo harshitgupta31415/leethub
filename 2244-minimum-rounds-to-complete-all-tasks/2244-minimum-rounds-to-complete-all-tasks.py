@@ -1,8 +1,7 @@
 class Solution:
     def minimumRounds(self, tasks: List[int]) -> int:
         from collections import Counter
-        l=list(Counter(tasks).values())
-        print(l)
+        l=(Counter(tasks).values())
         if 1 in l:
             return -1
         ans=0
