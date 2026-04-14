@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2101-detonate-the-maximum-bombs](https://github.com/harshitgupta31415/leethub/tree/master/2101-detonate-the-maximum-bombs) |
 | [2396-strictly-palindromic-number](https://github.com/harshitgupta31415/leethub/tree/master/2396-strictly-palindromic-number) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/harshitgupta31415/leethub/tree/master/3222-find-the-winning-player-in-coin-game) |
+| [3227-vowels-game-in-a-string](https://github.com/harshitgupta31415/leethub/tree/master/3227-vowels-game-in-a-string) |
 | [3360-stone-removal-game](https://github.com/harshitgupta31415/leethub/tree/master/3360-stone-removal-game) |
 ## String
 |  |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/harshitgupta31415/leethub/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/harshitgupta31415/leethub/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/harshitgupta31415/leethub/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3227-vowels-game-in-a-string](https://github.com/harshitgupta31415/leethub/tree/master/3227-vowels-game-in-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/harshitgupta31415/leethub/tree/master/3222-find-the-winning-player-in-coin-game) |
+| [3227-vowels-game-in-a-string](https://github.com/harshitgupta31415/leethub/tree/master/3227-vowels-game-in-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1033-moving-stones-until-consecutive](https://github.com/harshitgupta31415/leethub/tree/master/1033-moving-stones-until-consecutive) |
 | [2396-strictly-palindromic-number](https://github.com/harshitgupta31415/leethub/tree/master/2396-strictly-palindromic-number) |
+| [3227-vowels-game-in-a-string](https://github.com/harshitgupta31415/leethub/tree/master/3227-vowels-game-in-a-string) |
 ## Queue
 |  |
 | ------- |
