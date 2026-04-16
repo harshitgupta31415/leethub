@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/harshitgupta31415/leethub/tree/master/0905-sort-array-by-parity) |
 | [1037-valid-boomerang](https://github.com/harshitgupta31415/leethub/tree/master/1037-valid-boomerang) |
 | [1833-maximum-ice-cream-bars](https://github.com/harshitgupta31415/leethub/tree/master/1833-maximum-ice-cream-bars) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/harshitgupta31415/leethub/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/harshitgupta31415/leethub/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/harshitgupta31415/leethub/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1929-concatenation-of-array](https://github.com/harshitgupta31415/leethub/tree/master/1929-concatenation-of-array) |
