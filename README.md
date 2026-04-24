@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/harshitgupta31415/leethub/tree/master/0561-array-partition) |
 | [1833-maximum-ice-cream-bars](https://github.com/harshitgupta31415/leethub/tree/master/1833-maximum-ice-cream-bars) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/harshitgupta31415/leethub/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+| [2833-furthest-point-from-origin](https://github.com/harshitgupta31415/leethub/tree/master/2833-furthest-point-from-origin) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/harshitgupta31415/leethub/tree/master/3852-smallest-pair-with-different-frequencies) |
 ## Two Pointers
 |  |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/harshitgupta31415/leethub/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/harshitgupta31415/leethub/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/harshitgupta31415/leethub/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2833-furthest-point-from-origin](https://github.com/harshitgupta31415/leethub/tree/master/2833-furthest-point-from-origin) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/harshitgupta31415/leethub/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3227-vowels-game-in-a-string](https://github.com/harshitgupta31415/leethub/tree/master/3227-vowels-game-in-a-string) |
 ## Bit Manipulation
