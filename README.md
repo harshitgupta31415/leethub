@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/harshitgupta31415/leethub/tree/master/0164-maximum-gap) |
 | [0275-h-index-ii](https://github.com/harshitgupta31415/leethub/tree/master/0275-h-index-ii) |
 | [0324-wiggle-sort-ii](https://github.com/harshitgupta31415/leethub/tree/master/0324-wiggle-sort-ii) |
+| [0396-rotate-function](https://github.com/harshitgupta31415/leethub/tree/master/0396-rotate-function) |
 | [0561-array-partition](https://github.com/harshitgupta31415/leethub/tree/master/0561-array-partition) |
 | [0658-find-k-closest-elements](https://github.com/harshitgupta31415/leethub/tree/master/0658-find-k-closest-elements) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/harshitgupta31415/leethub/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/harshitgupta31415/leethub/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/harshitgupta31415/leethub/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/harshitgupta31415/leethub/tree/master/0067-add-binary) |
+| [0396-rotate-function](https://github.com/harshitgupta31415/leethub/tree/master/0396-rotate-function) |
 | [1033-moving-stones-until-consecutive](https://github.com/harshitgupta31415/leethub/tree/master/1033-moving-stones-until-consecutive) |
 | [1037-valid-boomerang](https://github.com/harshitgupta31415/leethub/tree/master/1037-valid-boomerang) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/harshitgupta31415/leethub/tree/master/1551-minimum-operations-to-make-array-equal) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/harshitgupta31415/leethub/tree/master/0118-pascals-triangle) |
+| [0396-rotate-function](https://github.com/harshitgupta31415/leethub/tree/master/0396-rotate-function) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/harshitgupta31415/leethub/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Sliding Window
 |  |
