@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/harshitgupta31415/leethub/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/harshitgupta31415/leethub/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/harshitgupta31415/leethub/tree/master/0067-add-binary) |
+| [0172-factorial-trailing-zeroes](https://github.com/harshitgupta31415/leethub/tree/master/0172-factorial-trailing-zeroes) |
 | [0396-rotate-function](https://github.com/harshitgupta31415/leethub/tree/master/0396-rotate-function) |
 | [1033-moving-stones-until-consecutive](https://github.com/harshitgupta31415/leethub/tree/master/1033-moving-stones-until-consecutive) |
 | [1037-valid-boomerang](https://github.com/harshitgupta31415/leethub/tree/master/1037-valid-boomerang) |
