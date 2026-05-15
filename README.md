@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/harshitgupta31415/leethub/tree/master/0048-rotate-image) |
 | [0118-pascals-triangle](https://github.com/harshitgupta31415/leethub/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/harshitgupta31415/leethub/tree/master/0135-candy) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/harshitgupta31415/leethub/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0164-maximum-gap](https://github.com/harshitgupta31415/leethub/tree/master/0164-maximum-gap) |
 | [0275-h-index-ii](https://github.com/harshitgupta31415/leethub/tree/master/0275-h-index-ii) |
 | [0324-wiggle-sort-ii](https://github.com/harshitgupta31415/leethub/tree/master/0324-wiggle-sort-ii) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/harshitgupta31415/leethub/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0275-h-index-ii](https://github.com/harshitgupta31415/leethub/tree/master/0275-h-index-ii) |
 | [0658-find-k-closest-elements](https://github.com/harshitgupta31415/leethub/tree/master/0658-find-k-closest-elements) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/harshitgupta31415/leethub/tree/master/0852-peak-index-in-a-mountain-array) |
