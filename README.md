@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/harshitgupta31415/leethub/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/harshitgupta31415/leethub/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/harshitgupta31415/leethub/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/harshitgupta31415/leethub/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2540-minimum-common-value](https://github.com/harshitgupta31415/leethub/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/harshitgupta31415/leethub/tree/master/2553-separate-the-digits-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/harshitgupta31415/leethub/tree/master/2784-check-if-array-is-good) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-binary-gap](https://github.com/harshitgupta31415/leethub/tree/master/0868-binary-gap) |
 | [1009-complement-of-base-10-integer](https://github.com/harshitgupta31415/leethub/tree/master/1009-complement-of-base-10-integer) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/harshitgupta31415/leethub/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/harshitgupta31415/leethub/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/harshitgupta31415/leethub/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Simulation
 |  |
