@@ -12,9 +12,6 @@ class Solution:
                     removed.add(word[i])             
             elif word[i]==word[i].upper():
                 caps.add(word[i])
-        print(small)
-        print(caps)
-        print(removed)
         match=set()
         for i in small:
             if i.upper() in caps:
