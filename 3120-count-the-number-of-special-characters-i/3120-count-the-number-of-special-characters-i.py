@@ -1,8 +1,10 @@
 class Solution:
-    def numberOfSpecialChars(self, word: str) -> int:
-        word=set(word)
+    def numberOfSpecialChars(self, w: str) -> int:
+        wset=set(w)
         ans=0
-        for i in word:
-            if i.upper() in word and i.upper()!= i:
+        for i in w:
+            if i.upper()!=i and i.upper() in wset:
                 ans+=1
+                wset.remove(i)
+                wset.remove(i.upper())
         return ans
