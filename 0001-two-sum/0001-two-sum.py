@@ -1,14 +1,19 @@
 class Solution:
-    def twoSum(self, nums, target):
-        arr = [(nums[i], i) for i in range(len(nums))]
-        arr.sort()
-        left = 0
-        right = len(arr) - 1
-        while left < right:
-            s = arr[left][0] + arr[right][0]
-            if s < target:
-                left += 1
-            elif s > target:
-                right -= 1
+    def twoSum(self, nums, t):
+        copy=nums[:]
+        nums.sort()
+        l=0
+        r=len(nums)-1
+        while l<r:
+            sm=nums[l]+nums[r]
+            if sm<t:
+                l+=1
+            elif sm>t:
+                r-=1
             else:
-                return [arr[left][1], arr[right][1]]
+                break
+        if nums[l]==nums[r]:
+            l=copy.index(nums[l])
+            r=len(copy)-copy[::-1].index(nums[r]) -1
+            return [l,r]
+        return [copy.index(nums[l]),copy.index(nums[r])]
