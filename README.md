@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/harshitgupta31415/leethub/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/harshitgupta31415/leethub/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1929-concatenation-of-array](https://github.com/harshitgupta31415/leethub/tree/master/1929-concatenation-of-array) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/harshitgupta31415/leethub/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/harshitgupta31415/leethub/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2101-detonate-the-maximum-bombs](https://github.com/harshitgupta31415/leethub/tree/master/2101-detonate-the-maximum-bombs) |
 | [2126-destroying-asteroids](https://github.com/harshitgupta31415/leethub/tree/master/2126-destroying-asteroids) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/harshitgupta31415/leethub/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/harshitgupta31415/leethub/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 ## Heap (Priority Queue)
 |  |
@@ -326,4 +328,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/harshitgupta31415/leethub/tree/master/0796-rotate-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/harshitgupta31415/leethub/tree/master/1944-number-of-visible-people-in-a-queue) |
 <!---LeetCode Topics End-->
