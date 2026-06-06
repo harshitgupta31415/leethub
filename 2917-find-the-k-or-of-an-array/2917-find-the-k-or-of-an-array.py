@@ -1,11 +1,11 @@
 class Solution:
     def findKOr(self, nums: List[int], k: int) -> int:
         ans = 0
-        for bit in range(32):
+        for i in range(32):
             count = 0
             for num in nums:
-                if num & (1 << bit):
+                if num & (1 << i):
                     count += 1
             if count >= k:
-                ans |= (1 << bit)
+                ans |= (1 << i)
         return ans
