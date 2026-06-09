@@ -3,7 +3,6 @@ class Solution:
         import math
         ans=math.ceil((len(b)/len(a)))
         s=a*ans
-        print(s)
         if b in s:
             return ans
         else:
