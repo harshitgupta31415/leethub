@@ -1,12 +1,13 @@
 class Solution:
     def repeatedStringMatch(self, a: str, b: str) -> int:
         import math
-        s=a*math.ceil((len(b)/len(a)))
+        ans=math.ceil((len(b)/len(a)))
+        s=a*ans
         print(s)
         if b in s:
-            return math.ceil(len(b)/len(a))
+            return ans
         else:
             s+=a
             if b in s:
-                return math.ceil(len(b)/len(a)+1)
+                return ans+1
             return -1
