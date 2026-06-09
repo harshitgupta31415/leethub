@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/harshitgupta31415/leethub/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/harshitgupta31415/leethub/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/harshitgupta31415/leethub/tree/master/3643-flip-square-submatrix-vertically) |
+| [3689-maximum-total-subarray-value-i](https://github.com/harshitgupta31415/leethub/tree/master/3689-maximum-total-subarray-value-i) |
 | [3708-longest-fibonacci-subarray](https://github.com/harshitgupta31415/leethub/tree/master/3708-longest-fibonacci-subarray) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/harshitgupta31415/leethub/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/harshitgupta31415/leethub/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/harshitgupta31415/leethub/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/harshitgupta31415/leethub/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/harshitgupta31415/leethub/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3689-maximum-total-subarray-value-i](https://github.com/harshitgupta31415/leethub/tree/master/3689-maximum-total-subarray-value-i) |
 ## Counting Sort
 |  |
 | ------- |
