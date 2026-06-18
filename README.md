@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/harshitgupta31415/leethub/tree/master/0846-hand-of-straights) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/harshitgupta31415/leethub/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/harshitgupta31415/leethub/tree/master/0860-lemonade-change) |
+| [0881-boats-to-save-people](https://github.com/harshitgupta31415/leethub/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/harshitgupta31415/leethub/tree/master/0905-sort-array-by-parity) |
 | [1037-valid-boomerang](https://github.com/harshitgupta31415/leethub/tree/master/1037-valid-boomerang) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/harshitgupta31415/leethub/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/harshitgupta31415/leethub/tree/master/0561-array-partition) |
 | [0658-find-k-closest-elements](https://github.com/harshitgupta31415/leethub/tree/master/0658-find-k-closest-elements) |
 | [0846-hand-of-straights](https://github.com/harshitgupta31415/leethub/tree/master/0846-hand-of-straights) |
+| [0881-boats-to-save-people](https://github.com/harshitgupta31415/leethub/tree/master/0881-boats-to-save-people) |
 | [0899-orderly-queue](https://github.com/harshitgupta31415/leethub/tree/master/0899-orderly-queue) |
 | [0905-sort-array-by-parity](https://github.com/harshitgupta31415/leethub/tree/master/0905-sort-array-by-parity) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/harshitgupta31415/leethub/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/harshitgupta31415/leethub/tree/master/0561-array-partition) |
 | [0846-hand-of-straights](https://github.com/harshitgupta31415/leethub/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/harshitgupta31415/leethub/tree/master/0860-lemonade-change) |
+| [0881-boats-to-save-people](https://github.com/harshitgupta31415/leethub/tree/master/0881-boats-to-save-people) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/harshitgupta31415/leethub/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1328-break-a-palindrome](https://github.com/harshitgupta31415/leethub/tree/master/1328-break-a-palindrome) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/harshitgupta31415/leethub/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/harshitgupta31415/leethub/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/harshitgupta31415/leethub/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/harshitgupta31415/leethub/tree/master/0658-find-k-closest-elements) |
+| [0881-boats-to-save-people](https://github.com/harshitgupta31415/leethub/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/harshitgupta31415/leethub/tree/master/0905-sort-array-by-parity) |
 | [1768-merge-strings-alternately](https://github.com/harshitgupta31415/leethub/tree/master/1768-merge-strings-alternately) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/harshitgupta31415/leethub/tree/master/1855-maximum-distance-between-a-pair-of-values) |
