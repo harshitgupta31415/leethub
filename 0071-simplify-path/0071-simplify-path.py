@@ -8,10 +8,9 @@ class Solution:
                     if ans:
                         ans.pop()
                 else:
-                    if i is not ".":
+                    if i != ".":
                         ans.append(i)
         res="/"
-        print(ans)
         if not ans:
             return res
         for i in ans:
