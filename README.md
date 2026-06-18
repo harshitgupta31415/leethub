@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/harshitgupta31415/leethub/tree/master/0396-rotate-function) |
 | [0561-array-partition](https://github.com/harshitgupta31415/leethub/tree/master/0561-array-partition) |
 | [0658-find-k-closest-elements](https://github.com/harshitgupta31415/leethub/tree/master/0658-find-k-closest-elements) |
+| [0846-hand-of-straights](https://github.com/harshitgupta31415/leethub/tree/master/0846-hand-of-straights) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/harshitgupta31415/leethub/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/harshitgupta31415/leethub/tree/master/0860-lemonade-change) |
 | [0905-sort-array-by-parity](https://github.com/harshitgupta31415/leethub/tree/master/0905-sort-array-by-parity) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/harshitgupta31415/leethub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/harshitgupta31415/leethub/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/harshitgupta31415/leethub/tree/master/0771-jewels-and-stones) |
+| [0846-hand-of-straights](https://github.com/harshitgupta31415/leethub/tree/master/0846-hand-of-straights) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/harshitgupta31415/leethub/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2540-minimum-common-value](https://github.com/harshitgupta31415/leethub/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/harshitgupta31415/leethub/tree/master/2784-check-if-array-is-good) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/harshitgupta31415/leethub/tree/master/0324-wiggle-sort-ii) |
 | [0561-array-partition](https://github.com/harshitgupta31415/leethub/tree/master/0561-array-partition) |
 | [0658-find-k-closest-elements](https://github.com/harshitgupta31415/leethub/tree/master/0658-find-k-closest-elements) |
+| [0846-hand-of-straights](https://github.com/harshitgupta31415/leethub/tree/master/0846-hand-of-straights) |
 | [0899-orderly-queue](https://github.com/harshitgupta31415/leethub/tree/master/0899-orderly-queue) |
 | [0905-sort-array-by-parity](https://github.com/harshitgupta31415/leethub/tree/master/0905-sort-array-by-parity) |
 | [1833-maximum-ice-cream-bars](https://github.com/harshitgupta31415/leethub/tree/master/1833-maximum-ice-cream-bars) |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/harshitgupta31415/leethub/tree/master/0135-candy) |
 | [0324-wiggle-sort-ii](https://github.com/harshitgupta31415/leethub/tree/master/0324-wiggle-sort-ii) |
 | [0561-array-partition](https://github.com/harshitgupta31415/leethub/tree/master/0561-array-partition) |
+| [0846-hand-of-straights](https://github.com/harshitgupta31415/leethub/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/harshitgupta31415/leethub/tree/master/0860-lemonade-change) |
 | [1328-break-a-palindrome](https://github.com/harshitgupta31415/leethub/tree/master/1328-break-a-palindrome) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/harshitgupta31415/leethub/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
