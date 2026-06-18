@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/harshitgupta31415/leethub/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/harshitgupta31415/leethub/tree/master/0008-string-to-integer-atoi) |
 | [0067-add-binary](https://github.com/harshitgupta31415/leethub/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/harshitgupta31415/leethub/tree/master/0071-simplify-path) |
 | [0214-shortest-palindrome](https://github.com/harshitgupta31415/leethub/tree/master/0214-shortest-palindrome) |
 | [0520-detect-capital](https://github.com/harshitgupta31415/leethub/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/harshitgupta31415/leethub/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/harshitgupta31415/leethub/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/harshitgupta31415/leethub/tree/master/0071-simplify-path) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/harshitgupta31415/leethub/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1544-make-the-string-great](https://github.com/harshitgupta31415/leethub/tree/master/1544-make-the-string-great) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/harshitgupta31415/leethub/tree/master/1944-number-of-visible-people-in-a-queue) |
