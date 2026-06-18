@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/harshitgupta31415/leethub/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/harshitgupta31415/leethub/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/harshitgupta31415/leethub/tree/master/0059-spiral-matrix-ii) |
+| [0078-subsets](https://github.com/harshitgupta31415/leethub/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/harshitgupta31415/leethub/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/harshitgupta31415/leethub/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/harshitgupta31415/leethub/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/harshitgupta31415/leethub/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/harshitgupta31415/leethub/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/harshitgupta31415/leethub/tree/master/0078-subsets) |
 | [0476-number-complement](https://github.com/harshitgupta31415/leethub/tree/master/0476-number-complement) |
 | [0868-binary-gap](https://github.com/harshitgupta31415/leethub/tree/master/0868-binary-gap) |
 | [1009-complement-of-base-10-integer](https://github.com/harshitgupta31415/leethub/tree/master/1009-complement-of-base-10-integer) |
@@ -390,4 +392,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/harshitgupta31415/leethub/tree/master/0214-shortest-palindrome) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/harshitgupta31415/leethub/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
