@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1033-moving-stones-until-consecutive](https://github.com/harshitgupta31415/leethub/tree/master/1033-moving-stones-until-consecutive) |
 | [1037-valid-boomerang](https://github.com/harshitgupta31415/leethub/tree/master/1037-valid-boomerang) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/harshitgupta31415/leethub/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1518-water-bottles](https://github.com/harshitgupta31415/leethub/tree/master/1518-water-bottles) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/harshitgupta31415/leethub/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/harshitgupta31415/leethub/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1922-count-good-numbers](https://github.com/harshitgupta31415/leethub/tree/master/1922-count-good-numbers) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/harshitgupta31415/leethub/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/harshitgupta31415/leethub/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/harshitgupta31415/leethub/tree/master/0657-robot-return-to-origin) |
+| [1518-water-bottles](https://github.com/harshitgupta31415/leethub/tree/master/1518-water-bottles) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/harshitgupta31415/leethub/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/harshitgupta31415/leethub/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1929-concatenation-of-array](https://github.com/harshitgupta31415/leethub/tree/master/1929-concatenation-of-array) |
