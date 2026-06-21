@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/harshitgupta31415/leethub/tree/master/2784-check-if-array-is-good) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/harshitgupta31415/leethub/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2917-find-the-k-or-of-an-array](https://github.com/harshitgupta31415/leethub/tree/master/2917-find-the-k-or-of-an-array) |
+| [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/harshitgupta31415/leethub/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/harshitgupta31415/leethub/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/harshitgupta31415/leethub/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/harshitgupta31415/leethub/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/harshitgupta31415/leethub/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/harshitgupta31415/leethub/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/harshitgupta31415/leethub/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/harshitgupta31415/leethub/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/harshitgupta31415/leethub/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/harshitgupta31415/leethub/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/harshitgupta31415/leethub/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/harshitgupta31415/leethub/tree/master/1833-maximum-ice-cream-bars) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/harshitgupta31415/leethub/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2833-furthest-point-from-origin](https://github.com/harshitgupta31415/leethub/tree/master/2833-furthest-point-from-origin) |
+| [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/harshitgupta31415/leethub/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/harshitgupta31415/leethub/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/harshitgupta31415/leethub/tree/master/3852-smallest-pair-with-different-frequencies) |
 ## Two Pointers
