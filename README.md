@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/harshitgupta31415/leethub/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/harshitgupta31415/leethub/tree/master/0771-jewels-and-stones) |
 | [0846-hand-of-straights](https://github.com/harshitgupta31415/leethub/tree/master/0846-hand-of-straights) |
+| [1189-maximum-number-of-balloons](https://github.com/harshitgupta31415/leethub/tree/master/1189-maximum-number-of-balloons) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/harshitgupta31415/leethub/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1338-reduce-array-size-to-the-half](https://github.com/harshitgupta31415/leethub/tree/master/1338-reduce-array-size-to-the-half) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/harshitgupta31415/leethub/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/harshitgupta31415/leethub/tree/master/0561-array-partition) |
+| [1189-maximum-number-of-balloons](https://github.com/harshitgupta31415/leethub/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/harshitgupta31415/leethub/tree/master/1833-maximum-ice-cream-bars) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/harshitgupta31415/leethub/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2833-furthest-point-from-origin](https://github.com/harshitgupta31415/leethub/tree/master/2833-furthest-point-from-origin) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/harshitgupta31415/leethub/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/harshitgupta31415/leethub/tree/master/0796-rotate-string) |
 | [0899-orderly-queue](https://github.com/harshitgupta31415/leethub/tree/master/0899-orderly-queue) |
+| [1189-maximum-number-of-balloons](https://github.com/harshitgupta31415/leethub/tree/master/1189-maximum-number-of-balloons) |
 | [1328-break-a-palindrome](https://github.com/harshitgupta31415/leethub/tree/master/1328-break-a-palindrome) |
 | [1544-make-the-string-great](https://github.com/harshitgupta31415/leethub/tree/master/1544-make-the-string-great) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/harshitgupta31415/leethub/tree/master/1545-find-kth-bit-in-nth-binary-string) |
