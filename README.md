@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/harshitgupta31415/leethub/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1338-reduce-array-size-to-the-half](https://github.com/harshitgupta31415/leethub/tree/master/1338-reduce-array-size-to-the-half) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/harshitgupta31415/leethub/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1572-matrix-diagonal-sum](https://github.com/harshitgupta31415/leethub/tree/master/1572-matrix-diagonal-sum) |
 | [1732-find-the-highest-altitude](https://github.com/harshitgupta31415/leethub/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/harshitgupta31415/leethub/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/harshitgupta31415/leethub/tree/master/1833-maximum-ice-cream-bars) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/harshitgupta31415/leethub/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/harshitgupta31415/leethub/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/harshitgupta31415/leethub/tree/master/0059-spiral-matrix-ii) |
+| [1572-matrix-diagonal-sum](https://github.com/harshitgupta31415/leethub/tree/master/1572-matrix-diagonal-sum) |
 | [3643-flip-square-submatrix-vertically](https://github.com/harshitgupta31415/leethub/tree/master/3643-flip-square-submatrix-vertically) |
 ## Binary Search
 |  |
