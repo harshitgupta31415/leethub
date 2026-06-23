@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/harshitgupta31415/leethub/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/harshitgupta31415/leethub/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/harshitgupta31415/leethub/tree/master/0215-kth-largest-element-in-an-array) |
+| [0219-contains-duplicate-ii](https://github.com/harshitgupta31415/leethub/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/harshitgupta31415/leethub/tree/master/0238-product-of-array-except-self) |
 | [0275-h-index-ii](https://github.com/harshitgupta31415/leethub/tree/master/0275-h-index-ii) |
 | [0324-wiggle-sort-ii](https://github.com/harshitgupta31415/leethub/tree/master/0324-wiggle-sort-ii) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/harshitgupta31415/leethub/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harshitgupta31415/leethub/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/harshitgupta31415/leethub/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/harshitgupta31415/leethub/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/harshitgupta31415/leethub/tree/master/0771-jewels-and-stones) |
 | [0846-hand-of-straights](https://github.com/harshitgupta31415/leethub/tree/master/0846-hand-of-straights) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harshitgupta31415/leethub/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/harshitgupta31415/leethub/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/harshitgupta31415/leethub/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/harshitgupta31415/leethub/tree/master/0658-find-k-closest-elements) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/harshitgupta31415/leethub/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
