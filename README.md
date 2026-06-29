@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/harshitgupta31415/leethub/tree/master/0324-wiggle-sort-ii) |
 | [0396-rotate-function](https://github.com/harshitgupta31415/leethub/tree/master/0396-rotate-function) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/harshitgupta31415/leethub/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/harshitgupta31415/leethub/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0561-array-partition](https://github.com/harshitgupta31415/leethub/tree/master/0561-array-partition) |
 | [0658-find-k-closest-elements](https://github.com/harshitgupta31415/leethub/tree/master/0658-find-k-closest-elements) |
 | [0846-hand-of-straights](https://github.com/harshitgupta31415/leethub/tree/master/0846-hand-of-straights) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/harshitgupta31415/leethub/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harshitgupta31415/leethub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/harshitgupta31415/leethub/tree/master/0219-contains-duplicate-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/harshitgupta31415/leethub/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/harshitgupta31415/leethub/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/harshitgupta31415/leethub/tree/master/0771-jewels-and-stones) |
 | [0846-hand-of-straights](https://github.com/harshitgupta31415/leethub/tree/master/0846-hand-of-straights) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/harshitgupta31415/leethub/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/harshitgupta31415/leethub/tree/master/0324-wiggle-sort-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/harshitgupta31415/leethub/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/harshitgupta31415/leethub/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0561-array-partition](https://github.com/harshitgupta31415/leethub/tree/master/0561-array-partition) |
 | [0658-find-k-closest-elements](https://github.com/harshitgupta31415/leethub/tree/master/0658-find-k-closest-elements) |
 | [0846-hand-of-straights](https://github.com/harshitgupta31415/leethub/tree/master/0846-hand-of-straights) |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/harshitgupta31415/leethub/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/harshitgupta31415/leethub/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/harshitgupta31415/leethub/tree/master/0042-trapping-rain-water) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/harshitgupta31415/leethub/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/harshitgupta31415/leethub/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/harshitgupta31415/leethub/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/harshitgupta31415/leethub/tree/master/0658-find-k-closest-elements) |
@@ -374,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/harshitgupta31415/leethub/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/harshitgupta31415/leethub/tree/master/0162-find-peak-element) |
 | [0275-h-index-ii](https://github.com/harshitgupta31415/leethub/tree/master/0275-h-index-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/harshitgupta31415/leethub/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/harshitgupta31415/leethub/tree/master/0658-find-k-closest-elements) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/harshitgupta31415/leethub/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/harshitgupta31415/leethub/tree/master/1855-maximum-distance-between-a-pair-of-values) |
