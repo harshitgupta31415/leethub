@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/harshitgupta31415/leethub/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1929-concatenation-of-array](https://github.com/harshitgupta31415/leethub/tree/master/1929-concatenation-of-array) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/harshitgupta31415/leethub/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/harshitgupta31415/leethub/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/harshitgupta31415/leethub/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2101-detonate-the-maximum-bombs](https://github.com/harshitgupta31415/leethub/tree/master/2101-detonate-the-maximum-bombs) |
 | [2126-destroying-asteroids](https://github.com/harshitgupta31415/leethub/tree/master/2126-destroying-asteroids) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/harshitgupta31415/leethub/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1768-merge-strings-alternately](https://github.com/harshitgupta31415/leethub/tree/master/1768-merge-strings-alternately) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/harshitgupta31415/leethub/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/harshitgupta31415/leethub/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/harshitgupta31415/leethub/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2833-furthest-point-from-origin](https://github.com/harshitgupta31415/leethub/tree/master/2833-furthest-point-from-origin) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/harshitgupta31415/leethub/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
