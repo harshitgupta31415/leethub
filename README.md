@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-stone-removal-game](https://github.com/harshitgupta31415/leethub/tree/master/3360-stone-removal-game) |
 | [3648-minimum-sensors-to-cover-grid](https://github.com/harshitgupta31415/leethub/tree/master/3648-minimum-sensors-to-cover-grid) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/harshitgupta31415/leethub/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/harshitgupta31415/leethub/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/harshitgupta31415/leethub/tree/master/3783-mirror-distance-of-an-integer) |
 ## String
 |  |
