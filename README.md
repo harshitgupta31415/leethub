@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/harshitgupta31415/leethub/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/harshitgupta31415/leethub/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/harshitgupta31415/leethub/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [3106-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/harshitgupta31415/leethub/tree/master/3106-lexicographically-smallest-string-after-operations-with-constraint) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/harshitgupta31415/leethub/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/harshitgupta31415/leethub/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/harshitgupta31415/leethub/tree/master/3689-maximum-total-subarray-value-i) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/harshitgupta31415/leethub/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2833-furthest-point-from-origin](https://github.com/harshitgupta31415/leethub/tree/master/2833-furthest-point-from-origin) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/harshitgupta31415/leethub/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3106-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/harshitgupta31415/leethub/tree/master/3106-lexicographically-smallest-string-after-operations-with-constraint) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/harshitgupta31415/leethub/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/harshitgupta31415/leethub/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3227-vowels-game-in-a-string](https://github.com/harshitgupta31415/leethub/tree/master/3227-vowels-game-in-a-string) |
