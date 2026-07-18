@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-number-of-visible-people-in-a-queue](https://github.com/harshitgupta31415/leethub/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/harshitgupta31415/leethub/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/harshitgupta31415/leethub/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/harshitgupta31415/leethub/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2101-detonate-the-maximum-bombs](https://github.com/harshitgupta31415/leethub/tree/master/2101-detonate-the-maximum-bombs) |
 | [2126-destroying-asteroids](https://github.com/harshitgupta31415/leethub/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/harshitgupta31415/leethub/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1551-minimum-operations-to-make-array-equal](https://github.com/harshitgupta31415/leethub/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/harshitgupta31415/leethub/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1922-count-good-numbers](https://github.com/harshitgupta31415/leethub/tree/master/1922-count-good-numbers) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/harshitgupta31415/leethub/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2101-detonate-the-maximum-bombs](https://github.com/harshitgupta31415/leethub/tree/master/2101-detonate-the-maximum-bombs) |
 | [2396-strictly-palindromic-number](https://github.com/harshitgupta31415/leethub/tree/master/2396-strictly-palindromic-number) |
 | [2469-convert-the-temperature](https://github.com/harshitgupta31415/leethub/tree/master/2469-convert-the-temperature) |
@@ -477,5 +479,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/harshitgupta31415/leethub/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/harshitgupta31415/leethub/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 <!---LeetCode Topics End-->
