@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/harshitgupta31415/leethub/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0561-array-partition](https://github.com/harshitgupta31415/leethub/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/harshitgupta31415/leethub/tree/master/0611-valid-triangle-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/harshitgupta31415/leethub/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/harshitgupta31415/leethub/tree/master/0658-find-k-closest-elements) |
 | [0846-hand-of-straights](https://github.com/harshitgupta31415/leethub/tree/master/0846-hand-of-straights) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/harshitgupta31415/leethub/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/harshitgupta31415/leethub/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0561-array-partition](https://github.com/harshitgupta31415/leethub/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/harshitgupta31415/leethub/tree/master/0611-valid-triangle-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/harshitgupta31415/leethub/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/harshitgupta31415/leethub/tree/master/0658-find-k-closest-elements) |
 | [0846-hand-of-straights](https://github.com/harshitgupta31415/leethub/tree/master/0846-hand-of-straights) |
 | [0881-boats-to-save-people](https://github.com/harshitgupta31415/leethub/tree/master/0881-boats-to-save-people) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/harshitgupta31415/leethub/tree/master/0172-factorial-trailing-zeroes) |
 | [0396-rotate-function](https://github.com/harshitgupta31415/leethub/tree/master/0396-rotate-function) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/harshitgupta31415/leethub/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/harshitgupta31415/leethub/tree/master/0628-maximum-product-of-three-numbers) |
 | [0899-orderly-queue](https://github.com/harshitgupta31415/leethub/tree/master/0899-orderly-queue) |
 | [0991-broken-calculator](https://github.com/harshitgupta31415/leethub/tree/master/0991-broken-calculator) |
 | [1033-moving-stones-until-consecutive](https://github.com/harshitgupta31415/leethub/tree/master/1033-moving-stones-until-consecutive) |
