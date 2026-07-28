@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/harshitgupta31415/leethub/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2784-check-if-array-is-good](https://github.com/harshitgupta31415/leethub/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/harshitgupta31415/leethub/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/harshitgupta31415/leethub/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/harshitgupta31415/leethub/tree/master/3536-maximum-product-of-two-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/harshitgupta31415/leethub/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Bucket Sort
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2284-sender-with-largest-word-count](https://github.com/harshitgupta31415/leethub/tree/master/2284-sender-with-largest-word-count) |
 | [2833-furthest-point-from-origin](https://github.com/harshitgupta31415/leethub/tree/master/2833-furthest-point-from-origin) |
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/harshitgupta31415/leethub/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/harshitgupta31415/leethub/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/harshitgupta31415/leethub/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/harshitgupta31415/leethub/tree/master/3852-smallest-pair-with-different-frequencies) |
 ## Two Pointers
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/harshitgupta31415/leethub/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3227-vowels-game-in-a-string](https://github.com/harshitgupta31415/leethub/tree/master/3227-vowels-game-in-a-string) |
 | [3456-find-special-substring-of-length-k](https://github.com/harshitgupta31415/leethub/tree/master/3456-find-special-substring-of-length-k) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/harshitgupta31415/leethub/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/harshitgupta31415/leethub/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3612-process-string-with-special-operations-i](https://github.com/harshitgupta31415/leethub/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/harshitgupta31415/leethub/tree/master/3838-weighted-word-mapping) |
