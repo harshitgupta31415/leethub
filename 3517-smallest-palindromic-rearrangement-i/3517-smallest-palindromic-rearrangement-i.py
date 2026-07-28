@@ -1,7 +1,5 @@
 class Solution:
     def smallestPalindrome(self, s: str) -> str:
-        if len(s)==1:
-            return s
         count=Counter(s)
         l=[]
         smallest_odd=""
