@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-flip-square-submatrix-vertically](https://github.com/harshitgupta31415/leethub/tree/master/3643-flip-square-submatrix-vertically) |
 | [3689-maximum-total-subarray-value-i](https://github.com/harshitgupta31415/leethub/tree/master/3689-maximum-total-subarray-value-i) |
 | [3708-longest-fibonacci-subarray](https://github.com/harshitgupta31415/leethub/tree/master/3708-longest-fibonacci-subarray) |
+| [3731-find-missing-elements](https://github.com/harshitgupta31415/leethub/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/harshitgupta31415/leethub/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/harshitgupta31415/leethub/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3838-weighted-word-mapping](https://github.com/harshitgupta31415/leethub/tree/master/3838-weighted-word-mapping) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/harshitgupta31415/leethub/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/harshitgupta31415/leethub/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/harshitgupta31415/leethub/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3731-find-missing-elements](https://github.com/harshitgupta31415/leethub/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/harshitgupta31415/leethub/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/harshitgupta31415/leethub/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/harshitgupta31415/leethub/tree/master/3852-smallest-pair-with-different-frequencies) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/harshitgupta31415/leethub/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/harshitgupta31415/leethub/tree/master/3536-maximum-product-of-two-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/harshitgupta31415/leethub/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3731-find-missing-elements](https://github.com/harshitgupta31415/leethub/tree/master/3731-find-missing-elements) |
 ## Bucket Sort
 |  |
 | ------- |
