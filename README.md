@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/harshitgupta31415/leethub/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/harshitgupta31415/leethub/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/harshitgupta31415/leethub/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/harshitgupta31415/leethub/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/harshitgupta31415/leethub/tree/master/0059-spiral-matrix-ii) |
 | [0078-subsets](https://github.com/harshitgupta31415/leethub/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/harshitgupta31415/leethub/tree/master/0118-pascals-triangle) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/harshitgupta31415/leethub/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/harshitgupta31415/leethub/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/harshitgupta31415/leethub/tree/master/0056-merge-intervals) |
 | [0164-maximum-gap](https://github.com/harshitgupta31415/leethub/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/harshitgupta31415/leethub/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/harshitgupta31415/leethub/tree/master/0324-wiggle-sort-ii) |
@@ -502,4 +504,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/harshitgupta31415/leethub/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/harshitgupta31415/leethub/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/harshitgupta31415/leethub/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
