@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/harshitgupta31415/leethub/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3838-weighted-word-mapping](https://github.com/harshitgupta31415/leethub/tree/master/3838-weighted-word-mapping) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/harshitgupta31415/leethub/tree/master/3852-smallest-pair-with-different-frequencies) |
+| [3875-construct-uniform-parity-array-i](https://github.com/harshitgupta31415/leethub/tree/master/3875-construct-uniform-parity-array-i) |
 | [3909-compare-sums-of-bitonic-parts](https://github.com/harshitgupta31415/leethub/tree/master/3909-compare-sums-of-bitonic-parts) |
 ## Hash Table
 |  |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/harshitgupta31415/leethub/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/harshitgupta31415/leethub/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/harshitgupta31415/leethub/tree/master/3783-mirror-distance-of-an-integer) |
+| [3875-construct-uniform-parity-array-i](https://github.com/harshitgupta31415/leethub/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
 | ------- |
