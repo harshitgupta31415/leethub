@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/harshitgupta31415/leethub/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/harshitgupta31415/leethub/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/harshitgupta31415/leethub/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3819-rotate-non-negative-elements](https://github.com/harshitgupta31415/leethub/tree/master/3819-rotate-non-negative-elements) |
 | [3838-weighted-word-mapping](https://github.com/harshitgupta31415/leethub/tree/master/3838-weighted-word-mapping) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/harshitgupta31415/leethub/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3875-construct-uniform-parity-array-i](https://github.com/harshitgupta31415/leethub/tree/master/3875-construct-uniform-parity-array-i) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3222-find-the-winning-player-in-coin-game](https://github.com/harshitgupta31415/leethub/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3360-stone-removal-game](https://github.com/harshitgupta31415/leethub/tree/master/3360-stone-removal-game) |
 | [3612-process-string-with-special-operations-i](https://github.com/harshitgupta31415/leethub/tree/master/3612-process-string-with-special-operations-i) |
+| [3819-rotate-non-negative-elements](https://github.com/harshitgupta31415/leethub/tree/master/3819-rotate-non-negative-elements) |
 | [3838-weighted-word-mapping](https://github.com/harshitgupta31415/leethub/tree/master/3838-weighted-word-mapping) |
 ## Linked List
 |  |
