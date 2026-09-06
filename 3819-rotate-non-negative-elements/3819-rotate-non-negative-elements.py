@@ -9,5 +9,5 @@ class Solution:
         k=k%len(l) if len(l)!=0 else 0
         l=l[k:]+l[:k]
         for i in range(len(pos)):
-            nums[pos[i]],l[i]=l[i],nums[pos[i]]
+            nums[pos[i]]=l[i]
         return nums
