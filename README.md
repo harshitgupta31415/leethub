@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/harshitgupta31415/leethub/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/harshitgupta31415/leethub/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/harshitgupta31415/leethub/tree/master/0071-simplify-path) |
+| [0093-restore-ip-addresses](https://github.com/harshitgupta31415/leethub/tree/master/0093-restore-ip-addresses) |
 | [0214-shortest-palindrome](https://github.com/harshitgupta31415/leethub/tree/master/0214-shortest-palindrome) |
 | [0520-detect-capital](https://github.com/harshitgupta31415/leethub/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/harshitgupta31415/leethub/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -512,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/harshitgupta31415/leethub/tree/master/0078-subsets) |
+| [0093-restore-ip-addresses](https://github.com/harshitgupta31415/leethub/tree/master/0093-restore-ip-addresses) |
 ## Number Theory
 |  |
 | ------- |
