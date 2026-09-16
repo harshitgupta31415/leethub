@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/harshitgupta31415/leethub/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/harshitgupta31415/leethub/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/harshitgupta31415/leethub/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/harshitgupta31415/leethub/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/harshitgupta31415/leethub/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/harshitgupta31415/leethub/tree/master/3643-flip-square-submatrix-vertically) |
 | [3649-number-of-perfect-pairs](https://github.com/harshitgupta31415/leethub/tree/master/3649-number-of-perfect-pairs) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/harshitgupta31415/leethub/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/harshitgupta31415/leethub/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/harshitgupta31415/leethub/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/harshitgupta31415/leethub/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3731-find-missing-elements](https://github.com/harshitgupta31415/leethub/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/harshitgupta31415/leethub/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/harshitgupta31415/leethub/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/harshitgupta31415/leethub/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/harshitgupta31415/leethub/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/harshitgupta31415/leethub/tree/master/3536-maximum-product-of-two-digits) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/harshitgupta31415/leethub/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/harshitgupta31415/leethub/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3649-number-of-perfect-pairs](https://github.com/harshitgupta31415/leethub/tree/master/3649-number-of-perfect-pairs) |
 | [3731-find-missing-elements](https://github.com/harshitgupta31415/leethub/tree/master/3731-find-missing-elements) |
