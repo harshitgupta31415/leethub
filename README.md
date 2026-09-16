@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/harshitgupta31415/leethub/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harshitgupta31415/leethub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/harshitgupta31415/leethub/tree/master/0219-contains-duplicate-ii) |
+| [0290-word-pattern](https://github.com/harshitgupta31415/leethub/tree/master/0290-word-pattern) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/harshitgupta31415/leethub/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/harshitgupta31415/leethub/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/harshitgupta31415/leethub/tree/master/0771-jewels-and-stones) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/harshitgupta31415/leethub/tree/master/0071-simplify-path) |
 | [0093-restore-ip-addresses](https://github.com/harshitgupta31415/leethub/tree/master/0093-restore-ip-addresses) |
 | [0214-shortest-palindrome](https://github.com/harshitgupta31415/leethub/tree/master/0214-shortest-palindrome) |
+| [0290-word-pattern](https://github.com/harshitgupta31415/leethub/tree/master/0290-word-pattern) |
 | [0520-detect-capital](https://github.com/harshitgupta31415/leethub/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/harshitgupta31415/leethub/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/harshitgupta31415/leethub/tree/master/0567-permutation-in-string) |
