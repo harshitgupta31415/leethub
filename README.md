@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/harshitgupta31415/leethub/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/harshitgupta31415/leethub/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/harshitgupta31415/leethub/tree/master/3643-flip-square-submatrix-vertically) |
+| [3649-number-of-perfect-pairs](https://github.com/harshitgupta31415/leethub/tree/master/3649-number-of-perfect-pairs) |
 | [3689-maximum-total-subarray-value-i](https://github.com/harshitgupta31415/leethub/tree/master/3689-maximum-total-subarray-value-i) |
 | [3708-longest-fibonacci-subarray](https://github.com/harshitgupta31415/leethub/tree/master/3708-longest-fibonacci-subarray) |
 | [3731-find-missing-elements](https://github.com/harshitgupta31415/leethub/tree/master/3731-find-missing-elements) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/harshitgupta31415/leethub/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/harshitgupta31415/leethub/tree/master/3536-maximum-product-of-two-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/harshitgupta31415/leethub/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3649-number-of-perfect-pairs](https://github.com/harshitgupta31415/leethub/tree/master/3649-number-of-perfect-pairs) |
 | [3731-find-missing-elements](https://github.com/harshitgupta31415/leethub/tree/master/3731-find-missing-elements) |
 ## Bucket Sort
 |  |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2562-find-the-array-concatenation-value](https://github.com/harshitgupta31415/leethub/tree/master/2562-find-the-array-concatenation-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/harshitgupta31415/leethub/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/harshitgupta31415/leethub/tree/master/3643-flip-square-submatrix-vertically) |
+| [3649-number-of-perfect-pairs](https://github.com/harshitgupta31415/leethub/tree/master/3649-number-of-perfect-pairs) |
 ## Math
 |  |
 | ------- |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/harshitgupta31415/leethub/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3536-maximum-product-of-two-digits](https://github.com/harshitgupta31415/leethub/tree/master/3536-maximum-product-of-two-digits) |
 | [3648-minimum-sensors-to-cover-grid](https://github.com/harshitgupta31415/leethub/tree/master/3648-minimum-sensors-to-cover-grid) |
+| [3649-number-of-perfect-pairs](https://github.com/harshitgupta31415/leethub/tree/master/3649-number-of-perfect-pairs) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/harshitgupta31415/leethub/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/harshitgupta31415/leethub/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/harshitgupta31415/leethub/tree/master/3783-mirror-distance-of-an-integer) |
