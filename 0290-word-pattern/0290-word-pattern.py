@@ -12,6 +12,6 @@ class Solution:
                 if d[i]!=s[j]:
                     return False
             j+=1
-        if len(d.values())!=len(set(d.values())):
-            return False
+            if len(d.values())!=len(set(d.values())):
+                return False
         return True
