@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/harshitgupta31415/leethub/tree/master/2574-left-and-right-sum-differences) |
 | [2772-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/harshitgupta31415/leethub/tree/master/2772-apply-operations-to-make-all-array-elements-equal-to-zero) |
 | [2784-check-if-array-is-good](https://github.com/harshitgupta31415/leethub/tree/master/2784-check-if-array-is-good) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/harshitgupta31415/leethub/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/harshitgupta31415/leethub/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2917-find-the-k-or-of-an-array](https://github.com/harshitgupta31415/leethub/tree/master/2917-find-the-k-or-of-an-array) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/harshitgupta31415/leethub/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/harshitgupta31415/leethub/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2284-sender-with-largest-word-count](https://github.com/harshitgupta31415/leethub/tree/master/2284-sender-with-largest-word-count) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/harshitgupta31415/leethub/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/harshitgupta31415/leethub/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2833-furthest-point-from-origin](https://github.com/harshitgupta31415/leethub/tree/master/2833-furthest-point-from-origin) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/harshitgupta31415/leethub/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3106-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/harshitgupta31415/leethub/tree/master/3106-lexicographically-smallest-string-after-operations-with-constraint) |
