@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3106-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/harshitgupta31415/leethub/tree/master/3106-lexicographically-smallest-string-after-operations-with-constraint) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/harshitgupta31415/leethub/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/harshitgupta31415/leethub/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/harshitgupta31415/leethub/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3227-vowels-game-in-a-string](https://github.com/harshitgupta31415/leethub/tree/master/3227-vowels-game-in-a-string) |
 | [3456-find-special-substring-of-length-k](https://github.com/harshitgupta31415/leethub/tree/master/3456-find-special-substring-of-length-k) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/harshitgupta31415/leethub/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2562-find-the-array-concatenation-value](https://github.com/harshitgupta31415/leethub/tree/master/2562-find-the-array-concatenation-value) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/harshitgupta31415/leethub/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3100-water-bottles-ii](https://github.com/harshitgupta31415/leethub/tree/master/3100-water-bottles-ii) |
+| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/harshitgupta31415/leethub/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/harshitgupta31415/leethub/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/harshitgupta31415/leethub/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3360-stone-removal-game](https://github.com/harshitgupta31415/leethub/tree/master/3360-stone-removal-game) |
