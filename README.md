@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/harshitgupta31415/leethub/tree/master/0214-shortest-palindrome) |
 | [0290-word-pattern](https://github.com/harshitgupta31415/leethub/tree/master/0290-word-pattern) |
 | [0520-detect-capital](https://github.com/harshitgupta31415/leethub/tree/master/0520-detect-capital) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/harshitgupta31415/leethub/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/harshitgupta31415/leethub/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/harshitgupta31415/leethub/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/harshitgupta31415/leethub/tree/master/0657-robot-return-to-origin) |
