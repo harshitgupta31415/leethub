@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/harshitgupta31415/leethub/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/harshitgupta31415/leethub/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/harshitgupta31415/leethub/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/harshitgupta31415/leethub/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/harshitgupta31415/leethub/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/harshitgupta31415/leethub/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/harshitgupta31415/leethub/tree/master/3643-flip-square-submatrix-vertically) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-stone-removal-game](https://github.com/harshitgupta31415/leethub/tree/master/3360-stone-removal-game) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/harshitgupta31415/leethub/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3536-maximum-product-of-two-digits](https://github.com/harshitgupta31415/leethub/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/harshitgupta31415/leethub/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3648-minimum-sensors-to-cover-grid](https://github.com/harshitgupta31415/leethub/tree/master/3648-minimum-sensors-to-cover-grid) |
 | [3649-number-of-perfect-pairs](https://github.com/harshitgupta31415/leethub/tree/master/3649-number-of-perfect-pairs) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/harshitgupta31415/leethub/tree/master/3751-total-waviness-of-numbers-in-range-i) |
