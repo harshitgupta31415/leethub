@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/harshitgupta31415/leethub/tree/master/0796-rotate-string) |
 | [0899-orderly-queue](https://github.com/harshitgupta31415/leethub/tree/master/0899-orderly-queue) |
 | [1189-maximum-number-of-balloons](https://github.com/harshitgupta31415/leethub/tree/master/1189-maximum-number-of-balloons) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/harshitgupta31415/leethub/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1328-break-a-palindrome](https://github.com/harshitgupta31415/leethub/tree/master/1328-break-a-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/harshitgupta31415/leethub/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1446-consecutive-characters](https://github.com/harshitgupta31415/leethub/tree/master/1446-consecutive-characters) |
@@ -517,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/harshitgupta31415/leethub/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/harshitgupta31415/leethub/tree/master/0071-simplify-path) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/harshitgupta31415/leethub/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1504-count-submatrices-with-all-ones](https://github.com/harshitgupta31415/leethub/tree/master/1504-count-submatrices-with-all-ones) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/harshitgupta31415/leethub/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1544-make-the-string-great](https://github.com/harshitgupta31415/leethub/tree/master/1544-make-the-string-great) |
@@ -575,4 +577,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/harshitgupta31415/leethub/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/harshitgupta31415/leethub/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
