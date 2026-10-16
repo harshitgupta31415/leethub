@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/harshitgupta31415/leethub/tree/master/0977-squares-of-a-sorted-array) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/harshitgupta31415/leethub/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1037-valid-boomerang](https://github.com/harshitgupta31415/leethub/tree/master/1037-valid-boomerang) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/harshitgupta31415/leethub/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/harshitgupta31415/leethub/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1338-reduce-array-size-to-the-half](https://github.com/harshitgupta31415/leethub/tree/master/1338-reduce-array-size-to-the-half) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harshitgupta31415/leethub/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/harshitgupta31415/leethub/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/harshitgupta31415/leethub/tree/master/0881-boats-to-save-people) |
 | [0991-broken-calculator](https://github.com/harshitgupta31415/leethub/tree/master/0991-broken-calculator) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/harshitgupta31415/leethub/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/harshitgupta31415/leethub/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1328-break-a-palindrome](https://github.com/harshitgupta31415/leethub/tree/master/1328-break-a-palindrome) |
 | [1338-reduce-array-size-to-the-half](https://github.com/harshitgupta31415/leethub/tree/master/1338-reduce-array-size-to-the-half) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0991-broken-calculator](https://github.com/harshitgupta31415/leethub/tree/master/0991-broken-calculator) |
 | [1033-moving-stones-until-consecutive](https://github.com/harshitgupta31415/leethub/tree/master/1033-moving-stones-until-consecutive) |
 | [1037-valid-boomerang](https://github.com/harshitgupta31415/leethub/tree/master/1037-valid-boomerang) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/harshitgupta31415/leethub/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/harshitgupta31415/leethub/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/harshitgupta31415/leethub/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/harshitgupta31415/leethub/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
