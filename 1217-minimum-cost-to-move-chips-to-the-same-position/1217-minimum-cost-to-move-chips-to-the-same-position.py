@@ -1,11 +1,12 @@
 class Solution:
     def minCostToMoveChips(self, position: list[int]) -> int:
-        even=0
-        odd=0
-
+        pos = {}
+        oe = {"odd":0,"even":0}
         for i in position:
-            if i%2==0:
-                even+=1
+            pos[i] = pos.get(i,0) + 1
+        for j in pos:
+            if j % 2 == 0:
+                oe["even"] += pos[j]
             else:
-                odd+=1
-        return min(even,odd) 
+                oe["odd"] += pos[j]
+        return min(oe.values())
