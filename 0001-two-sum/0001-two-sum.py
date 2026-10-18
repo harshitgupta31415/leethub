@@ -1,19 +1,9 @@
 class Solution:
     def twoSum(self, nums, t):
-        copy=nums[:]
-        nums.sort()
-        l=0
-        r=len(nums)-1
-        while l<r:
-            sm=nums[l]+nums[r]
-            if sm<t:
-                l+=1
-            elif sm>t:
-                r-=1
-            else:
-                break
-        if nums[l]==nums[r]:
-            l=copy.index(nums[l])
-            r=len(copy)-copy[::-1].index(nums[r]) -1
-            return [l,r]
-        return [copy.index(nums[l]),copy.index(nums[r])]
+        s = Counter(nums)
+        for i in range(len(nums)):
+            if t - nums[i] in s:
+                if t==2*nums[i] and s[nums[i]]>1:
+                    return [i, len(nums) - 1 - nums[::-1].index(t - nums[i])]
+                elif t!=2*nums[i]:
+                    return [i, nums.index(t - nums[i])]
