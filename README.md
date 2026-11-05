@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/harshitgupta31415/leethub/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/harshitgupta31415/leethub/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1338-reduce-array-size-to-the-half](https://github.com/harshitgupta31415/leethub/tree/master/1338-reduce-array-size-to-the-half) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/harshitgupta31415/leethub/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harshitgupta31415/leethub/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1504-count-submatrices-with-all-ones](https://github.com/harshitgupta31415/leethub/tree/master/1504-count-submatrices-with-all-ones) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/harshitgupta31415/leethub/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/harshitgupta31415/leethub/tree/master/0977-squares-of-a-sorted-array) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/harshitgupta31415/leethub/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1338-reduce-array-size-to-the-half](https://github.com/harshitgupta31415/leethub/tree/master/1338-reduce-array-size-to-the-half) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/harshitgupta31415/leethub/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1833-maximum-ice-cream-bars](https://github.com/harshitgupta31415/leethub/tree/master/1833-maximum-ice-cream-bars) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/harshitgupta31415/leethub/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/harshitgupta31415/leethub/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/harshitgupta31415/leethub/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/harshitgupta31415/leethub/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/harshitgupta31415/leethub/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/harshitgupta31415/leethub/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/harshitgupta31415/leethub/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1768-merge-strings-alternately](https://github.com/harshitgupta31415/leethub/tree/master/1768-merge-strings-alternately) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/harshitgupta31415/leethub/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -492,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/harshitgupta31415/leethub/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/harshitgupta31415/leethub/tree/master/0658-find-k-closest-elements) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/harshitgupta31415/leethub/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/harshitgupta31415/leethub/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harshitgupta31415/leethub/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/harshitgupta31415/leethub/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/harshitgupta31415/leethub/tree/master/2089-find-target-indices-after-sorting-array) |
