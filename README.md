@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/harshitgupta31415/leethub/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1037-valid-boomerang](https://github.com/harshitgupta31415/leethub/tree/master/1037-valid-boomerang) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/harshitgupta31415/leethub/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1267-count-servers-that-communicate](https://github.com/harshitgupta31415/leethub/tree/master/1267-count-servers-that-communicate) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/harshitgupta31415/leethub/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1338-reduce-array-size-to-the-half](https://github.com/harshitgupta31415/leethub/tree/master/1338-reduce-array-size-to-the-half) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/harshitgupta31415/leethub/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/harshitgupta31415/leethub/tree/master/0561-array-partition) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/harshitgupta31415/leethub/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1189-maximum-number-of-balloons](https://github.com/harshitgupta31415/leethub/tree/master/1189-maximum-number-of-balloons) |
+| [1267-count-servers-that-communicate](https://github.com/harshitgupta31415/leethub/tree/master/1267-count-servers-that-communicate) |
 | [1833-maximum-ice-cream-bars](https://github.com/harshitgupta31415/leethub/tree/master/1833-maximum-ice-cream-bars) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/harshitgupta31415/leethub/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2284-sender-with-largest-word-count](https://github.com/harshitgupta31415/leethub/tree/master/2284-sender-with-largest-word-count) |
@@ -420,10 +422,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/harshitgupta31415/leethub/tree/master/1267-count-servers-that-communicate) |
 | [2101-detonate-the-maximum-bombs](https://github.com/harshitgupta31415/leethub/tree/master/2101-detonate-the-maximum-bombs) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/harshitgupta31415/leethub/tree/master/1267-count-servers-that-communicate) |
 | [2101-detonate-the-maximum-bombs](https://github.com/harshitgupta31415/leethub/tree/master/2101-detonate-the-maximum-bombs) |
 ## Graph Theory
 |  |
@@ -480,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/harshitgupta31415/leethub/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/harshitgupta31415/leethub/tree/master/0059-spiral-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/harshitgupta31415/leethub/tree/master/0566-reshape-the-matrix) |
+| [1267-count-servers-that-communicate](https://github.com/harshitgupta31415/leethub/tree/master/1267-count-servers-that-communicate) |
 | [1504-count-submatrices-with-all-ones](https://github.com/harshitgupta31415/leethub/tree/master/1504-count-submatrices-with-all-ones) |
 | [1572-matrix-diagonal-sum](https://github.com/harshitgupta31415/leethub/tree/master/1572-matrix-diagonal-sum) |
 | [3643-flip-square-submatrix-vertically](https://github.com/harshitgupta31415/leethub/tree/master/3643-flip-square-submatrix-vertically) |
@@ -624,4 +629,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/harshitgupta31415/leethub/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/harshitgupta31415/leethub/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
