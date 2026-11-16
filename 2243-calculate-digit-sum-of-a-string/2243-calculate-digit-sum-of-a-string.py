@@ -5,8 +5,8 @@ class Solution:
             i = 0
             while i < len(s):
                 group = s[i:i+k]
-                sum_val = sum(int(ch) for ch in group)
-                temp.append(str(sum_val))
+                sum1 = sum(int(x) for x in group)
+                temp.append(str(sum1))
                 i += k
             s = "".join(temp)
         return s
