@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/harshitgupta31415/leethub/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/harshitgupta31415/leethub/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 | [3364-minimum-positive-sum-subarray](https://github.com/harshitgupta31415/leethub/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/harshitgupta31415/leethub/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/harshitgupta31415/leethub/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/harshitgupta31415/leethub/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/harshitgupta31415/leethub/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/harshitgupta31415/leethub/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/harshitgupta31415/leethub/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 | [3360-stone-removal-game](https://github.com/harshitgupta31415/leethub/tree/master/3360-stone-removal-game) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/harshitgupta31415/leethub/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/harshitgupta31415/leethub/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3536-maximum-product-of-two-digits](https://github.com/harshitgupta31415/leethub/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/harshitgupta31415/leethub/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -482,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/harshitgupta31415/leethub/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/harshitgupta31415/leethub/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/harshitgupta31415/leethub/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/harshitgupta31415/leethub/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Database
 |  |
 | ------- |
@@ -589,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2749-minimum-operations-to-make-the-integer-zero](https://github.com/harshitgupta31415/leethub/tree/master/2749-minimum-operations-to-make-the-integer-zero) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/harshitgupta31415/leethub/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/harshitgupta31415/leethub/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/harshitgupta31415/leethub/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/harshitgupta31415/leethub/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## String Matching
 |  |
@@ -622,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/harshitgupta31415/leethub/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/harshitgupta31415/leethub/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/harshitgupta31415/leethub/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Quicksort
 |  |
 | ------- |
